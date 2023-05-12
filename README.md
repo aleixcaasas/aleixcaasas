@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying [Enginyeria Informàtica](http://www.uab.cat) in Universitat Autònoma de Barcelona
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **Fullstack Development**
 
 - 👨‍💻 All of my projects are available at [https://www.aleixcaasas.netlify.app](https://aleixcaasas.netlify.app/)
 
